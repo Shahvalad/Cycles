@@ -1,0 +1,7 @@
+C:\Users\Шахвалад\source\repos\Cycles\Cycles\bin\Debug\Cycles.exe.config
+C:\Users\Шахвалад\source\repos\Cycles\Cycles\bin\Debug\Cycles.exe
+C:\Users\Шахвалад\source\repos\Cycles\Cycles\bin\Debug\Cycles.pdb
+C:\Users\Шахвалад\source\repos\Cycles\Cycles\obj\Debug\Cycles.csprojAssemblyReference.cache
+C:\Users\Шахвалад\source\repos\Cycles\Cycles\obj\Debug\Cycles.csproj.CoreCompileInputs.cache
+C:\Users\Шахвалад\source\repos\Cycles\Cycles\obj\Debug\Cycles.exe
+C:\Users\Шахвалад\source\repos\Cycles\Cycles\obj\Debug\Cycles.pdb
